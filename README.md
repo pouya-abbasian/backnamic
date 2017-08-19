@@ -1,6 +1,6 @@
 # backnamic
 
-# this script was made to change the normal,boring, static background of gnome desktops into a cool, dynamic background. 
+## this script was made to change the normal,boring, static background of _GNOME DESKTOPS_ into a cool, dynamic background. 
 it's really simple to use too:
 1) run the following command from a terminal
 ```bash
