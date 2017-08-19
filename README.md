@@ -11,4 +11,10 @@ git clone https://github.com/pouya-abbasian/backnamic.git && mv backnamic ~/back
 ~/backnamic/./script.sh &
 ```
 done!
+```bash
+Note: if you want your wallpaper to stay like this, you should add the script
+to your system's startup
+```
+# with Special thanks to https://github.com/mohammadreza-abedi 
+
 enjoy your new dynamic background!
