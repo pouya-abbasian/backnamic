@@ -15,6 +15,6 @@ done!
 Note: if you want your wallpaper to stay like this, you should add the script
 to your system's startup
 ```
-# with Special thanks to https://github.com/mohammadreza-abedi 
+### with Special thanks to https://github.com/mohammadreza-abedi 
 
 enjoy your new dynamic background!
