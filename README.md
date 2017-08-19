@@ -8,7 +8,7 @@ git clone https://github.com/pouya-abbasian/backnamic.git && mv backnamic ~/back
 ```
 2) use the following command to start the script:
 ```bash
-~/backnamic/./script.sh
+~/backnamic/./script.sh &
 ```
 done!
 enjoy your new dynamic background!
